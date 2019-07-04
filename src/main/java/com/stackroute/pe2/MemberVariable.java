@@ -5,11 +5,8 @@ import static org.junit.Assert.assertArrayEquals;
 
 public class MemberVariable
 {
+    // declaration
+    int age;
+    double salary;
     String name;
-
-        public String[] isMember(String name, int age, double salary) {
-            String [] arr={name,String.valueOf(age),String.valueOf(salary)};
-            return arr;
-        }
-    }
-
+}

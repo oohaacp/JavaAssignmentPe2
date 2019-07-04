@@ -12,7 +12,8 @@ public class Palindrome {
     }
     if (str1 == str) {
       return str;
-    } else {
+    } else
+      {
       return str1;
     }
 

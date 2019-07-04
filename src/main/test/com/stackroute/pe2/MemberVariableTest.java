@@ -7,7 +7,7 @@ public class MemberVariableTest
 
 
 
-
+    MemberVariable ob=new MemberVariable();
         Question3 app;
         Question3.MemberVariable app2;
 
